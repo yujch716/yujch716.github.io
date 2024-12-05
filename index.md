@@ -8,4 +8,4 @@ permalink: /
 
 
 # Welcome to My Blog
-Just the Docs 테마를 사용 중입니다!
+테마 왜 깨지냐!
