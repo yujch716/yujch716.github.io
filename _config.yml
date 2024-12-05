@@ -3,8 +3,8 @@ remote_theme: just-the-docs/just-the-docs
 # Site settings
 title: yujin 개발 블로그
 description: 개발 기록
-baseurl: "/yujch716.github.io"
-url: "https://github.com/yujch716"
+baseurl: ""
+url: "https://yujch716.github.io"
 
 
 # Aux links for the upper right navigation
