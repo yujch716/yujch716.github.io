@@ -7,5 +7,6 @@ permalink: /
 ---
 
 
-# Welcome to My Blog
-테마 왜 깨지냐!
+# Welcome!
+
+👋
