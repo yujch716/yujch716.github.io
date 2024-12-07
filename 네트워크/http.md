@@ -1,9 +1,8 @@
 ---
 layout: default
 title: 네트워크
-nav_order: 1
-description: "description"
-permalink: /
+nav_order: 2
+has_children: true
 ---
 
 ### http
