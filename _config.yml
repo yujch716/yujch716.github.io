@@ -9,11 +9,11 @@ title: 서버 백엔드 엔지니어
 email: yujch716@gmail.com
 website: https://yujch716.github.io/blog/
 
-darkmode: false
+darkmode: never
 
 github_username: yujch716
 
-about_profile_image: images/profile.jpg
+about_profile_image: photo.jpg
 about_content: |
   TypeScript/NestJS와 AWS 기반의 <mark>3년차 백엔드 개발자</mark>로, B2B SaaS ATS 서비스와 온보딩 자동화 SaaS 'HelloBoard'에서 <mark>서버리스 아키텍처</mark>, <mark>비동기 처리</mark>, <mark>인프라 자동화(IaC)</mark> 등을 통해 서비스 안정성과 운영 효율을 개선해왔습니다.
 
