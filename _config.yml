@@ -110,9 +110,9 @@ content:
         title: Backend
         description: |
           - NodeJS(Typescript), PHP, Java
-          - Express, NestJS, Laravel, SpringBoot
+          - NestJS, Laravel, SpringBoot
           - TypeORM, Prisma, JPA
-          - IntelliJ, WebStorm, Visual Studio Code
+          - WebStorm, IntelliJ, Visual Studio Code
 
       - layout: left
         title: DevOps
