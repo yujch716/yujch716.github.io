@@ -7,7 +7,7 @@ version: 2
 name: 최유진
 title: 서버 백엔드 엔지니어
 email: yujch716@gmail.com
-website: https://yujch716.github.io/blog/
+github: https://github.com/yujch716
 
 darkmode: never
 
@@ -131,7 +131,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: left
         title: posco
         sub_title: posco 청년 AI·Bigdata 아카데미
         caption: 2026.05 ~ 2026.07
@@ -140,7 +140,7 @@ content:
         description: |
           - 데이터 기반 의사결정 역량과 향후 AI 기능 개발을 위한 기초 지식 확보를 목적으로 참여
 
-      - layout: top-right
+      - layout: left
         title: 케이지에듀원
         sub_title: 마이크로서비스 기반 응용 SW 개발자 양성
         caption: 2021.02 ~ 2021.08
